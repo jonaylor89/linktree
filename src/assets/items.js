@@ -30,7 +30,7 @@ const items = [
         "title": "Apps",
         "subtitle": "Hub of my awesome 🔥 Apps",
         "image": appstore,
-        "link": "#"//
+        "link": "https://play.google.com/store/apps/developer?id=John+Naylor"// google play linik
     },
     {
         "title": "Dribbble",
