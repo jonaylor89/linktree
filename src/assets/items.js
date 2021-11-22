@@ -6,6 +6,7 @@ import dribbble from '../assets/dribbble.png'
 import github from '../assets/github.png'
 // import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import blog from '../assets/blog.png'
 
 const items = [
     {
@@ -13,6 +14,12 @@ const items = [
         "subtitle": "Look at my work!",
         "image": website,
         "link": "https://jonaylor.xyz" //your personal website or portfolio  link
+    },
+    {
+        "title": "Blog",
+        "subtitle": "The latest content for what I've written",
+        "image": blog,
+        "link": "https://blog.jonaylor.xyz"// Blog link
     },
     {
         "title": "GitHub",
