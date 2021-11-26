@@ -7,6 +7,7 @@ import github from '../assets/github.png'
 // import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import blog from '../assets/blog.png'
+import intheloop from '../assets/intheloop.png'
 
 const items = [
     {
@@ -34,6 +35,12 @@ const items = [
         "link": "https://twitter.com/jonaylor89"// twitter profile link 
     },
     {
+        "title": "In The Loop",
+        "subtitle": "",
+        "image": intheloop,
+        "link": "https://intheloopstudio.com" // In The Loop landing page
+    },
+    {
         "title": "Apps",
         "subtitle": "Hub of my awesome 🔥 Apps",
         "image": appstore,
@@ -45,6 +52,7 @@ const items = [
         "image": dribbble,
         "link": "https://dribbble.com/jonaylor89" // Dribbble profile link 
     },
+
 ]
 
 export default items
