@@ -36,7 +36,7 @@ const items = [
     },
     {
         "title": "In The Loop",
-        "subtitle": "",
+        "subtitle": "The platform tailored for artists and producers to collaborate",
         "image": intheloop,
         "link": "https://intheloopstudio.com" // In The Loop landing page
     },
