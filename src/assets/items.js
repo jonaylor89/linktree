@@ -8,6 +8,7 @@ import github from '../assets/github.png'
 import twitter from '../assets/twitter.png'
 import blog from '../assets/blog.png'
 import intheloop from '../assets/intheloop.png'
+import tapped from "../assets/tapped.png"
 
 const items = [
     {
@@ -33,6 +34,12 @@ const items = [
         "subtitle": "@jonaylor89 | Don't forget to follow me 😉",
         "image": twitter,
         "link": "https://twitter.com/jonaylor89"// twitter profile link 
+    },
+    {
+      "title": "Tapped",
+      "subtitle": "A live music portfolio for musicians",
+      "image": tapped,
+      "link": "https://tapped.jonaylor.xyz"
     },
     {
         "title": "In The Loop",
