@@ -39,7 +39,7 @@ const items = [
       "title": "Tapped",
       "subtitle": "A live music portfolio for musicians",
       "image": tapped,
-      "link": "https://tapped.jonaylor.xyz"
+      "link": "https://tapped.ai"
     },
     {
         "title": "In The Loop",
