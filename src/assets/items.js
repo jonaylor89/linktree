@@ -30,18 +30,6 @@ const items = [
     link: "https://github.com/jonaylor89", //Github Profile link
   },
   {
-    title: "Twitter",
-    subtitle: "@jonaylor89 | Don't forget to follow me 😉",
-    image: twitter,
-    link: "https://twitter.com/jonaylor89", // twitter profile link
-  },
-  {
-    title: "LinkedIn",
-    subtitle: "Connect with me on LinkedIn",
-    image: linkedin,
-    link: "https://www.linkedin.com/in/john-naylor", // linkedin profile link
-  },
-  {
     title: "Tapped Ai",
     subtitle: "the leading live music database",
     image: tapped,
@@ -58,6 +46,18 @@ const items = [
     subtitle: "Hub of my awesome 🔥 Apps",
     image: appstore,
     link: "https://play.google.com/store/apps/developer?id=John+Naylor", // google play linik
+  },
+  {
+    title: "Twitter",
+    subtitle: "@jonaylor89 | Don't forget to follow me 😉",
+    image: twitter,
+    link: "https://twitter.com/jonaylor89", // twitter profile link
+  },
+  {
+    title: "LinkedIn",
+    subtitle: "Connect with me on LinkedIn",
+    image: linkedin,
+    link: "https://www.linkedin.com/in/john-naylor", // linkedin profile link
   },
   {
     title: "Telegram",
