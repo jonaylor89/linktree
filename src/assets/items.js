@@ -2,7 +2,7 @@ import website from "../assets/website.png";
 // import instagram from '../assets/instagram.png'
 import appstore from "../assets/playstore.png";
 // import youtube from '../assets/youtube.jpeg'
-import dribbble from "../assets/dribbble.png";
+import linkedin from "../assets/linkedin.png";
 import github from "../assets/github.png";
 import telegram from "../assets/telegram.png";
 import twitter from "../assets/twitter.png";
@@ -34,6 +34,12 @@ const items = [
     subtitle: "@jonaylor89 | Don't forget to follow me 😉",
     image: twitter,
     link: "https://twitter.com/jonaylor89", // twitter profile link
+  },
+  {
+    title: "LinkedIn",
+    subtitle: "Connect with me on LinkedIn",
+    image: linkedin,
+    link: "https://www.linkedin.com/in/john-naylor", // linkedin profile link
   },
   {
     title: "Tapped Ai",
